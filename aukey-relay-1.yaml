@@ -1,0 +1,5 @@
+substitutions:
+  device_name: aukey-relay-1
+  friendly_name: Aukey Relay 1
+
+<<: !include aukey-relay-template.yaml
